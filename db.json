@@ -1,0 +1,125 @@
+{
+  "pendingTasks": [],
+  "allAddedTasks": [
+    {
+      "subTasks": [],
+      "title": "Math",
+      "description": "Practice Maths",
+      "status": "done",
+      "tags": [
+        "personal"
+      ],
+      "date": "2022-10-31",
+      "id": 1
+    },
+    {
+      "subTasks": [
+        {
+          "id": "10ea73d1-7721-4b39-9067-31121a72cc80+0.37842328445358686",
+          "text": "Read Text"
+        },
+        {
+          "id": "c538c9ff-bca7-45ec-9e96-4b9ed9f12713+0.6089695741740726",
+          "text": "Practice Writting"
+        },
+        {
+          "id": "9b76d51b-cc29-4afe-98b2-51de553e26f1+0.8308413038435409",
+          "text": "Listen"
+        }
+      ],
+      "title": "English",
+      "description": "Read english",
+      "status": "done",
+      "tags": [
+        "personal"
+      ],
+      "date": "2022-11-01",
+      "id": 2
+    },
+    {
+      "subTasks": [
+        {
+          "id": "5f79d946-565e-4045-afcc-06fc1460938b+0.9404606302737424",
+          "text": "Practice Speaking"
+        },
+        {
+          "id": "4e7523d5-3aec-4764-ba7c-4ab1634d156d+0.3037375306440562",
+          "text": "Concept explainer"
+        },
+        {
+          "id": "6798f707-0d09-4fe6-9191-51711bd28135+0.6851584267531277",
+          "text": "Read aloud"
+        }
+      ],
+      "title": "English Speaking",
+      "description": "Practice Speaking",
+      "status": "todo",
+      "tags": [
+        "personal"
+      ],
+      "date": "2022-10-29",
+      "id": 3
+    },
+    {
+      "subTasks": [
+        {
+          "id": "5384b1f7-a12a-45c9-be0c-9e28a2fb86a7+0.33465818825626403",
+          "text": "Practice recursion"
+        },
+        {
+          "id": "0dd542ac-2879-40bf-817c-178e4cf9386c+0.7221011463138762",
+          "text": "Array 20 questions"
+        }
+      ],
+      "title": "DSA",
+      "description": "Practice more questions",
+      "status": "todo",
+      "tags": [
+        "other"
+      ],
+      "date": "2022-11-02",
+      "id": 4
+    },
+    {
+      "subTasks": [
+        {
+          "id": "6c7d1fb0-110e-48fa-8c05-1d5495f7ff97+0.5901075189774736",
+          "text": "Project Creation"
+        },
+        {
+          "id": "dc1058ff-1489-4341-a3ec-eb0a4ffa40b2+0.28080202666019427",
+          "text": "Talk on a topic"
+        }
+      ],
+      "title": "Coding",
+      "description": "Make a project",
+      "status": "progress",
+      "tags": [
+        "official"
+      ],
+      "date": "2022-11-04",
+      "id": 5
+    },
+    {
+      "subTasks": [
+        {
+          "id": "cdb4675a-4216-493f-9957-df45b3c79770+0.6412262498396513",
+          "text": "Practice question with time"
+        },
+        {
+          "id": "f894fefa-a123-4800-b555-c2879b7e5259+0.10810671529090543",
+          "text": "Know something new"
+        }
+      ],
+      "title": "Make Notes",
+      "description": "Make notes of DSA and practice 20 questions",
+      "status": "todo",
+      "tags": [
+        "personal"
+      ],
+      "date": "2022-11-02",
+      "id": 6
+    }
+  ],
+  "completedTasks": []
+}
